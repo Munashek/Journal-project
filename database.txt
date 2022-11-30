@@ -1,0 +1,6 @@
+("localhost", "root", "", "journalsystem");
+table = user
+first user=>Stan
+stan@gmail.com
+123456
+
